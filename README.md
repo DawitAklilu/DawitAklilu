@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello! My name is Dawit and I'm an aspiring data scientist hoping to use my skills and knowledge to make a difference!
+Hello! My name is Dawit and I'm an aspiring data analyst hoping to use my skills and knowledge to make a difference!
 
 <!--
 **DawitAklilu/DawitAklilu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
